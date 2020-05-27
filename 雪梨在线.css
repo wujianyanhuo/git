@@ -27,6 +27,7 @@
 .hang {
 	display: inline-block;
 	font-size: 18px;
+	font-family:Microsoft YaHei;
 	border: 2px solid white;
 	margin-top: 42px;
 	padding-bottom: 10px;
@@ -46,7 +47,8 @@
 
 .hang:hover {border-bottom-color: #00a4ff;}
 
-.input {display: inline-block;
+.input {
+	display: inline-block;
 	margin-left: 187px;
 	height: 40px;
 	margin-bottom: 30px
@@ -60,6 +62,7 @@ input {
 	color: #bfbfbf;
 	padding-left: 19px;
 	font-size: 14px;
+	font-family:Microsoft YaHei;
 }
 
 .sou {display: inline-block;
@@ -74,6 +77,7 @@ input {
 .geren a {
 	display: inline-block;
 	font-size: 14px;
+	font-family:Microsoft YaHei;
 	color: #666666;
 }
 
@@ -109,6 +113,7 @@ input {
 	display: inline-block;
 	color: rgba(255,255,255,1);
 	font-size: 14px;
+	font-family:Microsoft YaHei;
 
 }
 
@@ -150,6 +155,7 @@ input {
 
 .ga a {
 	font-size: 16px;
+	font-family:Microsoft YaHei;
 	color: black;
 }
 
@@ -190,6 +196,7 @@ input {
 .jpt a {
 	color: #494949;
 	font-size: 20px;
+	font-family:Microsoft YaHei;
 }
 
 .jpc {
@@ -198,6 +205,7 @@ input {
 
 .jpc a {
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 	color: #a5a5a5;
 }
 
@@ -268,6 +276,7 @@ input {
 
 .th {
 	font-size: 14px;
+	font-family:Microsoft YaHei;
 	color: #050505;
 	width: 185px;
 	position: relative;
@@ -279,6 +288,7 @@ input {
 .pp {
 	color: #ff7c2d;
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 	position: relative;
 	top: 200px;
 	left: -80px;
@@ -288,6 +298,7 @@ input {
 .ppp {
 	color: #606060;
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 	position: relative;
 	top: 184px;
 	left: -18px;
@@ -309,6 +320,7 @@ input {
 .qdk a {
 	color: #494949;
 	font-size: 20px;
+	font-family:Microsoft YaHei;
 }
 
 .qdk {
@@ -319,6 +331,7 @@ input {
 .gj a {
 	display: inline-block;
 	font-size: 16px;
+	font-family:Microsoft YaHei;
 	color: #00a4ff;
 	margin-right: 80px;
 }
@@ -331,6 +344,7 @@ input {
 	display: inline-block;
 	color: #a5a5a5;
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 }
 
 .qdc {
@@ -376,6 +390,7 @@ input {
 .qdp {
 	width: 185px;
 	font-size: 14px;
+	font-family:Microsoft YaHei;
 	color: #050505;
 	position: relative;
 	top: 175px;
@@ -416,6 +431,7 @@ input {
 	display: inline-block;
 	color: #494949;
 	font-size: 20px;
+	font-family:Microsoft YaHei;
 	line-height: 77px;
 	float: left;
 }
@@ -445,6 +461,7 @@ input {
 	display: inline-block;
 	color: #f9e103;
 	font-size: 30px;
+	font-family:Microsoft YaHei;
 	position: relative;
 	top: 90px;
 	left: -30px;
@@ -454,6 +471,7 @@ input {
 	display: inline-block;
 	color: white;
 	font-size: 27px;
+	font-family:Microsoft YaHei;
 	position: relative;
 	top: 123px;
 	left: -125px;
@@ -462,6 +480,7 @@ input {
 .dian a {
 	color: #f9e103;
 	font-size: 13px;
+	font-family:Microsoft YaHei;
 }
 
 .dian {
@@ -482,6 +501,7 @@ input {
 }
 .name1 {
 	font-size: 18px;
+	font-family:Microsoft YaHei;
 	color: white;
 	display: inline-block;
 	line-height: 18px;
@@ -492,6 +512,7 @@ input {
 
 .zhiwei1 {
 	font-size: 14px;
+	font-family:Microsoft YaHei;
 	color: white;
 	display: inline-block;
 	line-height: 14px;
@@ -502,6 +523,7 @@ input {
 
 .jjie1 {
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 	color: white;
 	line-height: 20px;
 	width: 175px;
@@ -522,6 +544,7 @@ input {
 
 .name2 {
 	font-size: 18px;
+	font-family:Microsoft YaHei;
 	color: white;
 	display: inline-block;
 	line-height: 18px;
@@ -532,6 +555,7 @@ input {
 
 .zhiwei2 {
 	font-size: 14px;
+	font-family:Microsoft YaHei;
 	color: white;
 	display: inline-block;
 	line-height: 14px;
@@ -542,6 +566,7 @@ input {
 
 .jjie2 {
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 	color: white;
 	line-height: 20px;
 	width: 175px;
@@ -563,6 +588,7 @@ input {
 	display: inline-block;
 	height:36px;
 	font-size:36px;
+	font-family:Microsoft YaHei;
 	line-height: 36px;
 	font-weight:bold;
 	color:rgba(0,164,255,1);
@@ -574,6 +600,7 @@ input {
 .zhili {
 	display: inline-block;
 	font-size:12px;
+	font-family:Microsoft YaHei;
 	font-family: SimSun;
 	color:rgba(102,102,102,1);
 	position: relative;
@@ -588,6 +615,7 @@ input {
 	width:120px;
 	height: 36px;
 	font-size:16px;
+	font-family:Microsoft YaHei;
 	line-height:36px;
 	position: relative;
 	top: 240px;
@@ -613,6 +641,7 @@ input {
 
 .guahea a {
 	font-size: 16px;
+	font-family:Microsoft YaHei;
 }
 
 .guafe a {
@@ -620,6 +649,7 @@ input {
 	width: 80px;
 	text-align: left;
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 }
 
 #xin {
@@ -642,6 +672,7 @@ input {
 
 .xinhea a {
 	font-size: 16px;
+	font-family:Microsoft YaHei;
 	text-align: left;
 }
 
@@ -650,6 +681,7 @@ input {
 	width: 99px;
 	text-align: left;
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 }
 
 #he {
@@ -672,6 +704,7 @@ input {
 
 .hehea a {
 	font-size: 16px;
+	font-family:Microsoft YaHei;
 	text-align: left;
 }
 
@@ -680,4 +713,5 @@ input {
 	width: 80px;
 	text-align: left;
 	font-size: 12px;
+	font-family:Microsoft YaHei;
 }
